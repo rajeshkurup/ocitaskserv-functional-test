@@ -10,7 +10,6 @@ import org.json.JSONObject;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.oci.task.OciTaskServTestMain;
 import org.springframework.boot.test.context.SpringBootTest;
 
 /**
